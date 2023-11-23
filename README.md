@@ -1,10 +1,5 @@
-### Hi there I'm Hatem Tai 👋
-### FULL STACK WEB DEVELOPER
-![](https://komarev.com/ghpvc/?username=Freelancerhatem)
-![alt text](https://github.com/Freelancerhatem/blob/[branch]/PicsArt_06-27-02.28.27.jpg?raw=true)
-
 <h1 align="center">Hi 👋, I'm Hatem Tai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freelancerhatem&label=Profile%20views&color=0e75b6&style=flat" alt="freelancerhatem" /> </p>
 
