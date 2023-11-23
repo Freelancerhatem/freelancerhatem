@@ -1,6 +1,6 @@
 ### Hi there I'm Hatem Tai 👋
 ### FULL STACK WEB DEVELOPER
-
+![](https://komarev.com/ghpvc/?username=Freelancerhatem)
 <!--
 **Freelancerhatem/freelancerhatem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
