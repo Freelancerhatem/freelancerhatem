@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hatem5373" target="blank"><img src="https://img.shields.io/twitter/follow/hatem5373?logo=twitter&style=for-the-badge" alt="hatem5373" /></a> </p>
 
-- 🔭 I’m currently working on [Restuarant](https://chauni-cafe-and-resturant.web.app/)
+- 🔭 I’m currently working as a full stack developer [Demo link](https://chauni-cafe-and-resturant.web.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
