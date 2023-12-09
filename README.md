@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hatem Tai</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
-<div align="center"> <img src="https://raw.githubusercontent.com/freelancerhatem/freelancerhatem/main/cover.jpg"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/Freelancerhatem/freelancerhatem/main/cover.jpg"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freelancerhatem&label=Profile%20views&color=0e75b6&style=flat" alt="freelancerhatem" /> </p>
 
 
@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freelancerhatem&show_icons=true&locale=en&layout=compact" alt="freelancerhatem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freelancerhatem&show_icons=true&locale=en" alt="freelancerhatem" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freelancerhatem&show_icons=true&locale=en" alt="freelancerhatem" /></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freelancerhatem&" alt="freelancerhatem" /></p>
 
